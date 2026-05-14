@@ -18,7 +18,7 @@ Download the repository as a ZIP file.
 
 Open the local index.html (or the primary entry point) within that specific project folder.
 
-📂 Navigation Structure
+Navigation Structure
 
 This portfolio is designed to be an immersive directory of my technical and creative work. Each entry provides context for the project:
 
@@ -26,7 +26,7 @@ Direct Redirects: Some entries will link you directly to live deployments or ext
 
 Contextual Overviews: Other entries provide high-level technical breakdowns and documentation to explain the architecture and intent behind the work.
 
-🛠️ Tech Stack & Requirements
+Tech Stack & Requirements
 
 Environment: A modern web browser (Chrome, Firefox, Safari, or Edge).
 
